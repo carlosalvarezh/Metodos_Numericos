@@ -1,4 +1,4 @@
-SymPy
+Métodos Numéricos
 =====
 
 |pypi version| |pypi download| |Build status| |Gitter Badge|
