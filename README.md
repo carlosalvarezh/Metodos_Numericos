@@ -1,6 +1,6 @@
 # Métodos Numéricos
 
-Notas varias para un (o dos) curso de *Métodos Numéricos* empleando la herramienta *[Jupyter Notebook](http://jupyter.org/ "Jupyter Notebook's home page")* y programado en *[Python V3.7](https://www.python.org/ "Python's home page")*
+Notas varias de *Métodos Numéricos* empleando la herramienta *[Jupyter Notebook](http://jupyter.org/ "Jupyter Notebook's home page")* y programado en *[Python V3.7](https://www.python.org/ "Python's home page")*
 
 ## Básico
 - Error y representación de números en un computador
